@@ -8,13 +8,13 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8">
           
-          {/* Logo and Description */}
+          
           <div className="col-span-1 sm:col-span-2 md:col-span-1 space-y-3 sm:space-y-4">
             <img src={logo} className="h-8 sm:h-10 md:h-12 w-auto" alt="Logo"/>
             <p className="text-xs sm:text-sm text-gray-400">One Medical Devices Market Place</p>
           </div>
           
-          {/* Platform Section */}
+         
           <div className="col-span-1">
             <h3 className="text-base sm:text-lg md:text-xl lg:text-2xl font-semibold mb-3 sm:mb-4">Platform</h3>
             <ul className="space-y-2 sm:space-y-3 md:space-y-4 text-xs sm:text-sm md:text-base lg:text-lg text-gray-400">
@@ -28,7 +28,7 @@ const Footer = () => {
             </ul>
           </div>
           
-          {/* Press Room and Policies Section */}
+          
           <div className="col-span-1">
             <h3 className="text-base sm:text-lg md:text-xl lg:text-2xl font-semibold mb-3 sm:mb-4">Press Room</h3>
             <ul className="space-y-2 sm:space-y-3 text-xs sm:text-sm text-gray-400 mb-4 sm:mb-6">
@@ -43,7 +43,7 @@ const Footer = () => {
             </ul>
           </div>
           
-          {/* Reach Us Section */}
+         
           <div className="col-span-1">
             <h3 className="text-base sm:text-lg md:text-xl lg:text-2xl font-semibold mb-3 sm:mb-4">Reach Us</h3>
             <ul className="space-y-2 sm:space-y-3 md:space-y-4 text-xs sm:text-sm md:text-base lg:text-lg text-gray-400">
@@ -56,7 +56,7 @@ const Footer = () => {
     </footer>
 
      {/* <div className="mt-8 sm:mt-10 md:mt-12 pt-6 bg-white sm:pt-8 border-t border-gray-800"> */}
-     <div className=" text-xs sm:text-sm md:text-xl text-gray-400 py-5">
+     <div className=" text-xs sm:text-sm md:text-xl text-gray-400 py-5git branch -M main">
        <p className="mb-2 sm:mb-0 text-center">© 2025 1MDM ⚡ by SuperLabs</p>
      </div>
    {/* </div> */}

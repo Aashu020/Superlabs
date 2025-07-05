@@ -1,5 +1,5 @@
 import React from 'react'
-import globe from "../assets/image/seller-banner.png"; // Replace with your actual globe image
+import globe from "../assets/image/seller-banner.png"; 
 
 
 const Mainsec = () => {
@@ -8,7 +8,7 @@ const Mainsec = () => {
 >
       <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center justify-between gap-10 px-[5rem]">
         
-        {/* Left Content */}
+        
         <div className="md:w-1/2">
           <p className="text-lg text-gray-700 mb-2">Sell on 1mdm.com</p>
           <h1 className="text-3xl md:text-5xl font-extrabold text-gray-900 leading-tight mb-6">

@@ -55,8 +55,7 @@ const Content = () => {
     <div className="bg-gray-50 py-8 px-4 sm:py-12 md:py-16 lg:py-20 sm:px-6 md:px-8 lg:px-[5rem]">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col lg:flex-row">
-          
-          {/* Left Sidebar Menu */}
+        
           <div className="w-full lg:w-64 xl:w-72 mb-8 lg:mb-0 lg:mr-8 xl:mr-12">
             <div className="space-y-3 sm:space-y-4 lg:space-y-5">
               {menuItems.map((item, index) => (
@@ -76,8 +75,7 @@ const Content = () => {
           </div>
           <div className="flex-1 min-w-0">
             <div className="flex flex-col xl:flex-row items-start xl:items-center gap-6 sm:gap-8 xl:gap-12">
-              
-              {/* Content Section */}
+            
               <div className="w-full xl:w-1/2">
                 <div className='flex flex-col sm:flex-row items-start sm:items-center gap-6 sm:gap-8'>
                   <div className='space-y-4 sm:space-y-6 flex-1'>
