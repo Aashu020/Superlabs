@@ -1,12 +1,87 @@
-# React + Vite
+# Frontend Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive React application built with Vite and styled with Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Fully responsive layout that works on all devices
+- **Modern UI**: Clean, professional interface with smooth animations
+- **Interactive Components**: Dynamic content slider and navigation
+- **Optimized Performance**: Fast loading and smooth user experience
+- **Accessible**: Built with accessibility best practices
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - JavaScript library for building user interfaces
+- **Vite** - Fast build tool and development server
+- **Tailwind CSS** - Utility-first CSS framework
+- **JavaScript (ES6+)** - Modern JavaScript features
+- **HTML5 & CSS3** - Standard web technologies
+
+## 📋 Prerequisites
+
+
+## 🏗️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+   or if you're using yarn:
+   ```bash
+   yarn install
+   ```
+
+## 🚀 Running the Application
+
+### Development Mode
+
+To start the development server:
+
+```bash
+npm run dev
+```
+
+or with yarn:
+
+```bash
+yarn dev
+```
+## 📱 Responsive Breakpoints
+
+The application uses the following breakpoints:
+
+- **Mobile**: < 640px
+- **Tablet**: 640px - 768px
+- **Desktop**: 768px - 1024px
+- **Large Desktop**: > 1024px
+
+## 🧩 Components
+
+### Content Component
+- Interactive slide navigation
+- Responsive layout with sidebar menu
+- Dynamic content display
+- Image and text content sections
+
+## 🌐 Browser Support
+
+This application supports all modern browsers:
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## 📦 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint (if configured)
