@@ -56,7 +56,7 @@ const Footer = () => {
     </footer>
 
      {/* <div className="mt-8 sm:mt-10 md:mt-12 pt-6 bg-white sm:pt-8 border-t border-gray-800"> */}
-     <div className=" text-xs sm:text-sm md:text-xl text-gray-400 py-5git branch -M main">
+     <div className=" text-xs sm:text-sm md:text-xl text-gray-400 py-5">
        <p className="mb-2 sm:mb-0 text-center">© 2025 1MDM ⚡ by SuperLabs</p>
      </div>
    {/* </div> */}
